@@ -5,7 +5,8 @@ sdfsdfa\
 hello hiiiii
 asdasd\
 sdfsdf
-<<<<<<< HEAD
+<<<<<<< HEADasd
+
 asdas
 =======
 \asdad
