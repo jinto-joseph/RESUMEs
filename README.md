@@ -5,4 +5,8 @@ sdfsdfa\
 hello hiiiii
 asdasd\
 sdfsdf
+<<<<<<< HEAD
 asdas
+=======
+\asdad
+>>>>>>> feature-branch
